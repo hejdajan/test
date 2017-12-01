@@ -1,0 +1,8 @@
+name: inspec-workshop
+title: CIS CentOS 6 InSpec Profile
+maintainer: Jan Hejda
+copyright: Jan Hejda
+copyright_email: jhejda@wmpromus.com
+license: All Rights Reserved
+summary: A testing exercise
+version: 0.1.0
